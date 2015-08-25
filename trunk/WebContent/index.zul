@@ -1,0 +1,7 @@
+<?page title="pcbill's zk + neo4j notes"?>
+
+<borderlayout>
+  <center>
+    <window id="articleList" apply="pcbill.znlog.controller.ArticleController" />
+  </center>
+</borderlayout>
